@@ -1,4 +1,5 @@
 # libft
+Primer proyecto de 42 Málaga que consiste en programar algunas funciones de la librería estándar de C
 Librería propia
 isalpha
 isdigit
